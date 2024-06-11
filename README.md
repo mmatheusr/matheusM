@@ -7,8 +7,14 @@
 
 - Conhecimentos distros Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="30"/>: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>
 
+<br><br>
 
-<br><br><br>
+<p align="center">
+<a href="https://github.com/mmatheusr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mmatheusr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mmatheusr&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <div align="center">
 <a href="https://www.instagram.com/mmoreirar2/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
